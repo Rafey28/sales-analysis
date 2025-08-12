@@ -1,0 +1,3 @@
+Unique Products: ['Keyboard' 'Mouse' 'Monitor']
+Average Sale: 645.5555555555555
+Max Sale: 1500
